@@ -1,7 +1,8 @@
 [English](#en) | [Русский](#ru)
 
 ---
-# FPL Parser {#en}
+<a id="en"></a>
+# FPL Parser 
 Fast parser of the new FPL block format (fast parsing language).
 
 ## Where is it used?
@@ -103,7 +104,8 @@ int main()
 
 ---
 
-# Парсер FPL {#ru}
+<a id="ru"></a>
+# Парсер FPL
 Быстрый парсер нового блочного формата FPL (язык быстрого парсинга).
 
 ## Где применяется?
